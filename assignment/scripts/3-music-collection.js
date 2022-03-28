@@ -1,4 +1,4 @@
-console.log('***** Music Collection *****');
+console.log('***** Music Collection ******');
 let collection = [];
 //Parameter 1
 function addToCollection (title, artist, yearPublished){
@@ -45,3 +45,4 @@ function findByArtist(artist){
 
 console.log(`Should be array with objects ==>`, findByArtist('Bob'));
 console.log(`Should be empty ==>`, findByArtist('Marina'));
+
