@@ -1,4 +1,4 @@
-console.log('***** Music Collection ******');
+console.log('****** Music Collection ******');
 let collection = [];
 //Parameter 1
 function addToCollection (title, artist, yearPublished){
